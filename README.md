@@ -1,0 +1,2 @@
+# EMAIL-TEMP-GENERATOR-DECODED
+генератор почт DECODED
